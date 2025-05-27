@@ -1,2 +1,2 @@
-# bd-fake-agenda
-BD Fake para utilização da matéria de LP2
+# api-fake-telefone
+API Fake com informações dos telefones da matéria de LP II
